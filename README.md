@@ -18,3 +18,14 @@ starting the rmiregistry in Ubuntu/Solaris
 ```
 rmiregistry&
 ```
+
+Run the server 
+
+```
+java Server
+```
+Run the client 
+
+```
+java Client localhost
+```
